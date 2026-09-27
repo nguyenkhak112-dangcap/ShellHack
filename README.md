@@ -29,7 +29,7 @@ The dashboard explores how changes in oil transportation activity are associated
 - Tanker Geographic Locations
 
 ## Dashboard Features
-!([Dashboard Overview](image/
+!([Dashboard Overview](/image/Screenshot 2026-09-27 071507.jpg)
 
 - Oil price trend visualization
 - Daily oil export analysis
